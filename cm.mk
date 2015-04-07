@@ -11,5 +11,5 @@ PRODUCT_NAME := cm_h955
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_DEVICE="z2" \
     PRODUCT_NAME="z2_global_com" \
-    BUILD_FINGERPRINT="lge/z2_kt_kr/z2:5.0.1/LRX21Y/F510K10b.1422670813:user/release-keys" \
-    PRIVATE_BUILD_DESC="z2_kt_kr-user 5.0.1 LRX21Y F510K10b.1422670813 release-keys"
+    BUILD_FINGERPRINT="lge/z2_global_com/z2:5.0.1/LRX21Y/150751123416a:user/release-keys" \
+    PRIVATE_BUILD_DESC="z2_global_com-user 5.0.1 LRX21Y 150751123416a release-keys"
